@@ -57,7 +57,6 @@ Note: You cannot use -d and -l together! Just one of them <3
 
 Note: You can use your own list by submitting -w and if u didn't the tool is automatically using word.txt
 
-
 # Credits
 This tool was written in Golang 1.19.4, Made with all love in Egypt! <3
 Twitter@SirBagoza , Github@SirBugs
