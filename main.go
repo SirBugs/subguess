@@ -23,7 +23,7 @@ func logo() { // This func is for printing the tool logo
 	fmt.Println("\t\t             V: 1.0.1 Made With All Love <3")
 	fmt.Println("\t\t       For Generating/Checking Sub-Sub-Sub Domains")
 	fmt.Println("\t\t           Twitter@SirBagoza / GitHub@SirBugs")
-	fmt.Println("\t\t                Run: go run main.go file\n")
+	fmt.Println("\t\t   Run: go run main.go -l domains.txt -w wordlist.txt\n")
 }
 
 var TheWholeCycle []string; // Storing All The Subdomain, Sub-SubDomains, Sub-Sub-SubDomains
