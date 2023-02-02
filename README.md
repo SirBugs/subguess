@@ -36,7 +36,7 @@ or download from https://go.dev/dl/
                              V: 1.0.1 Made With All Love <3
                        For Generating/Checking Sub-Sub-Sub Domains
                            Twitter@SirBagoza / GitHub@SirBugs
-                                Run: go run main.go file
+                   Run: go run main.go -l domains.txt -w wordlist.txt
 
 [ ! ] Started Working !!
 [ ! ] Wordlist: big.txt !!
