@@ -39,7 +39,7 @@ or download from https://go.dev/dl/
                    Run: go run main.go -l domains.txt -w wordlist.txt
 
 [ ! ] Started Working !!
-[ ! ] Wordlist: big.txt !!
+[ ! ] Wordlist: wordlist.txt !!
 [ ! ] Targets:
         example.com
         example2.com
