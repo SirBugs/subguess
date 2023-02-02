@@ -53,8 +53,9 @@ or download from https://go.dev/dl/
 - -d --domain
 - -l --list
 - -w --wordlist
-*Note: * You cannot use -d and -l together! Just one of them <3
-*Note: * You can use your own list by submitting -w and if u didn't the tool is automatically using word.txt
+Note: You cannot use -d and -l together! Just one of them <3
+
+Note: You can use your own list by submitting -w and if u didn't the tool is automatically using word.txt
 
 
 # Credits
